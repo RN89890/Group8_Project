@@ -1,0 +1,484 @@
+Date,Facility Type,State,Canonical Facility Name,Pop Tested Positive,Pop Deaths,Lat,Long
+7/9/2020,State Prisons,New Jersey,Central Reception and Assignment Facility,158,1,-36.777034,174.749315
+7/9/2020,State Prisons,New Jersey,Tully House,6,0,10.247933,-61.621128
+7/9/2020,State Prisons,Florida,Homestead Correctional Institution,302,0,25.4130848,-80.4972634
+7/9/2020,State Prisons,Florida,Dade Correctional Institution,53,0,25.41671375,-80.49780093
+7/9/2020,State Prisons,Florida,Everglades Correctional Institution,137,0,25.75086,-80.4889348
+7/9/2020,State Prisons,Florida,South Florida Reception Center,78,0,25.805834,-80.42628073
+7/9/2020,State Prisons,Texas,Ruben M. Torres Unit,4,0,25.95128,-97.48895
+7/9/2020,State Prisons,Florida,South Bay Correctional Facility,222,0,26.6577,-80.7188
+7/9/2020,State Prisons,Florida,Martin Correctional Institution,1,0,27.1966,-80.4843
+7/9/2020,State Prisons,Florida,Desoto Annex,1,0,27.2041,-81.6652
+7/9/2020,State Prisons,Texas,Jim Rudd Unit,10,0,27.780539,-98.08657
+7/9/2020,State Prisons,Florida,Polk Correctional Institution,181,0,27.940646,-81.737081
+7/9/2020,State Prisons,Texas,Cotulla Unit,35,0,28.4358692,-99.2350791
+7/9/2020,State Prisons,Florida,Sumter Correctional Institution,103,0,28.61880295,-82.20754973
+7/9/2020,State Prisons,Texas,John B. Connally Unit,9,0,28.77433965,-97.83440646
+7/9/2020,State Prisons,Texas,Clemens Unit,25,0,28.98962835,-95.51825699
+7/9/2020,State Prisons,Florida,Tomoka Correctional Institution,138,0,29.15156395,-81.15725419
+7/9/2020,State Prisons,Texas,Hospital Galveston,67,0,29.299328,-94.7945882
+7/9/2020,State Prisons,Texas,Darrington Unit,84,0,29.3991201,-95.48988581
+7/9/2020,State Prisons,Texas,Montford Psychiatric Unit,16,0,29.508052,-98.316479
+7/9/2020,State Prisons,Texas,O.L. Luther Unit,6,0,29.575456,-99.729938
+7/9/2020,State Prisons,Florida,Lancaster Correctional Institution,34,0,29.60922795,-82.86505262
+7/9/2020,State Prisons,Texas,Carol Vance Unit,47,0,29.6217183,-95.6929631
+7/9/2020,State Prisons,Texas,Pam Lychner State Jail,302,0,29.959129,-95.22250256
+7/9/2020,State Prisons,Texas,Jester I Unit,25,0,29.9667242,-95.4541211
+7/9/2020,State Prisons,Texas,W.J. Estelle Unit,446,0,30.048228,-98.380193
+7/9/2020,State Prisons,Florida,Union Correctional Institution,29,0,30.0667267,-82.19273942
+7/9/2020,State Prisons,Texas,L.V. Hightower Unit,6,0,30.1044975,-94.93349484
+7/9/2020,State Prisons,Texas,Rufus H. Duncan Geriatric Facility,279,0,30.116603,-97.321061
+7/9/2020,State Prisons,Florida,Columbia Correctional Institution,27,0,30.1922,-82.5013
+7/9/2020,State Prisons,Florida,Liberty Correctional Institution,215,0,30.198697,-84.903672
+7/9/2020,State Prisons,Florida,Wakulla Correctional Institution,1,0,30.26043475,-84.17767008
+7/9/2020,State Prisons,Texas,Wallace Pack Unit,409,0,30.3243559,-96.10650854
+7/9/2020,State Prisons,Florida,Baker Correctional Institution,2,0,30.3703,-83.1592
+7/9/2020,State Prisons,Florida,Madison Correctional Institution,1,0,30.4413,-83.4212
+7/9/2020,State Prisons,Texas,Dr. Lane Murray Unit,143,0,30.473718,-97.563135
+7/9/2020,State Prisons,Florida,Hamilton Correctional Institution,204,0,30.50235935,-82.96154106
+7/9/2020,State Prisons,Texas,Fabian Dale Dominguez State Jail,499,0,30.523927,-94.806688
+7/9/2020,State Prisons,Florida,Gadsden Correctional Facility,92,0,30.55529,-84.619685
+7/9/2020,State Prisons,Florida,Blackwater River Correctional Facility,101,0,30.6457334,-86.95060111
+7/9/2020,State Prisons,Florida,Santa Rosa Correctional Institution,1,0,30.6471241,-86.96733366
+7/9/2020,State Prisons,Texas,Thomas Goree Unit,71,0,30.6739698,-95.51553692
+7/9/2020,State Prisons,Texas,Allan B. Polunsky Unit,14,0,30.69842,-95.014764
+7/9/2020,State Prisons,Texas,Terrell Unit,259,0,29.299105,-95.536795
+7/9/2020,State Prisons,Florida,Apalachee Correctional Institution,152,0,30.70895545,-84.87662055
+7/9/2020,State Prisons,Texas,Walker Sayle Unit,1,0,30.714389,-95.545516
+7/9/2020,State Prisons,Texas,Huntsville Unit,205,0,30.721677,-95.5465847
+7/9/2020,State Prisons,Florida,Holmes Correctional Institution,146,0,30.7549616,-85.67016442
+7/9/2020,State Prisons,Texas,Hutchins State Jail,74,0,30.794639,-97.442397
+7/9/2020,State Prisons,Texas,Gib Lewis Unit,3,0,30.7952882,-94.39747345
+7/9/2020,State Prisons,Louisiana,Dixon Correctional Institute,1,0,30.8128145,-91.20847751
+7/9/2020,State Prisons,Texas,Fort Stockton Unit,67,0,30.891901,-102.8836625
+7/9/2020,State Prisons,Louisiana,Louisiana State Penitentiary,179,12,30.95983535,-91.60011668
+7/9/2020,State Prisons,Florida,Graceville Correctional Facility,75,0,30.960885,-85.512468
+7/9/2020,State Prisons,Louisiana,Raymond Laborde Correctional Center,38,0,30.974485,-92.032477
+7/9/2020,State Prisons,Louisiana,Allen Correctional Center,17,0,30.564154,-92.79016
+7/9/2020,State Prisons,Louisiana,Elayn Hunt Correctional Center,17,1,30.262659,-91.086743
+7/9/2020,State Prisons,Louisiana,B. B. Rayburn Correctional Center,55,1,30.921755,-89.817857
+7/9/2020,State Prisons,Louisiana,Louisiana Correctional Institute for Women,176,2,30.260294,-91.0726
+7/9/2020,State Prisons,Texas,Beauford H. Jester IV Unit,12,0,29.622527,-95.703224
+7/9/2020,State Prisons,Texas,Lucille G. Plane State Jail,1,0,30.109202,-94.935235
+7/9/2020,State Prisons,Texas,Rufe Jordan Unit,13,0,35.566705,-100.887976
+7/9/2020,State Prisons,Texas,Ferguson Unit,31,0,31.0360293,-94.1393592
+7/9/2020,State Prisons,Alabama,Fountain Correctional Facility,1,0,31.15715115,-87.46469198
+7/9/2020,State Prisons,Texas,Diboll Unit,9,0,31.1871319,-94.7810412
+7/9/2020,State Prisons,Georgia,Jimmy Autry State Prison,76,3,31.18946045,-84.14511605
+7/9/2020,State Prisons,Texas,John W. Middleton Unit,382,0,31.249359,-95.970521
+7/9/2020,State Prisons,Texas,Bell Unit,3,0,31.351233,-94.715826
+7/9/2020,State Prisons,Texas,Richard P. LeBlanc Unit,228,0,31.372051,-93.695811
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Douglas,3,0,31.457756,-109.59263
+7/9/2020,State Prisons,Texas,Crain Unit,2,0,31.47127085,-97.74075493
+7/9/2020,State Prisons,Texas,Alfred D. Hughes Unit,9,0,31.4878994,-97.70403138
+7/9/2020,State Prisons,Georgia,Coffee Correctional Facility,177,1,31.538035,-82.849189
+7/9/2020,State Prisons,Texas,"William P. ""Bill"" Clements Unit",375,0,31.547509,-97.121448
+7/9/2020,State Prisons,Georgia,Phillips Transitional Center,3,0,34.094181,-83.910196
+7/9/2020,State Prisons,Georgia,Clayton Transitional Center,7,0,33.62427,-84.397551
+7/9/2020,State Prisons,Texas,William R. Boyd Unit,4,0,31.6718761,-96.19910038
+7/9/2020,State Prisons,Alabama,Easterling Correctional Facility,23,0,31.68948445,-85.58569563
+7/9/2020,State Prisons,Texas,Hamilton Unit,199,0,31.7030549,-98.1237815
+7/9/2020,State Prisons,Texas,George Beto Unit,307,0,31.75564815,-95.82280429
+7/9/2020,State Prisons,Texas,Estes Unit,1,0,31.8072974,-102.2413383
+7/9/2020,State Prisons,Alabama,Bullock Correctional Facility,1,0,32.14939595,-85.67233537
+7/9/2020,State Prisons,Georgia,Wheeler Correctional Facility,2,0,32.1502887,-82.79392394
+7/9/2020,State Prisons,Georgia,Montgomery State Prison,8,0,32.1593763,-82.56781121
+7/9/2020,State Prisons,Texas,East Texas Multi-Use Facility,11,0,32.1753502,-94.80083492
+7/9/2020,State Prisons,Texas,Bradshaw State Jail,100,0,32.1826001,-94.81541377
+7/9/2020,State Prisons,Mississippi,Central Mississippi Correctional Facility,33,0,32.22865585,-90.05906523
+7/9/2020,State Prisons,Georgia,Macon State Prison,27,2,32.25914245,-84.09127622
+7/9/2020,State Prisons,Georgia,Pulaski State Prison,1,0,32.3120479,-83.45724903
+7/9/2020,State Prisons,Alabama,William E. Donaldson Correctional Facility,1,0,33.513902,-87.184839
+7/9/2020,State Prisons,Alabama,Hamilton Aged & Infirmed,1,0,34.124504,-87.992071
+7/9/2020,State Prisons,Alabama,St. Clair Correctional Facility,28,0,33.746761,-86.385157
+7/9/2020,State Prisons,Alabama,Staton Correctional Facility,21,0,32.577048,-86.333479
+7/9/2020,State Prisons,Alabama,Kilby Correctional Facility,6,0,32.387691,-86.101545
+7/9/2020,Youth Institution,Alabama,Frank Lee Youth Center,1,0,32.581936,-86.390958
+7/9/2020,State Prisons,Georgia,Dodge State Prison,3,0,32.39437585,-83.16772612
+7/9/2020,State Prisons,Georgia,Rutledge State Prison,23,2,32.495767,-84.86653
+7/9/2020,State Prisons,Alabama,Julia Tutwiler Prison for Women,12,0,32.5638152,-86.19328495
+7/9/2020,State Prisons,Alabama,Draper Correctional Facility,1,0,32.5766901,-86.33593178
+7/9/2020,State Prisons,California,Richard J. Donovan Correctional Facility (RJD),1,0,32.5846197,-116.9334155
+7/9/2020,State Prisons,Georgia,Emanuel Women's Facility,24,0,32.6133041,-82.35633797
+7/9/2020,State Prisons,Alabama,ATEF,1,0,32.688053,-86.810585
+7/9/2020,State Prisons,Georgia,Central State Prison,1,0,32.7767534,-83.75204109
+7/9/2020,State Prisons,Arizona,Red Rock Correctional Center,1,0,32.8092221,-111.5207684
+7/9/2020,State Prisons,Texas,Preston E. Smith Unit,61,0,32.875703,-96.801982
+7/9/2020,State Prisons,Alabama,Elba Work Release Center,1,0,32.902068,-86.011077
+7/9/2020,State Prisons,Alabama,Bibb Correctional Facility,1,0,32.9199194,-87.16321007
+7/9/2020,State Prisons,South Carolina,Allendale Correctional Institution,29,0,32.967671,-81.26900675
+7/9/2020,State Prisons,Georgia,Valdosta State Prison & Annex,1,0,32.975811,-82.821672
+7/9/2020,State Prisons,Georgia,Baldwin State Prison,20,1,33.02479275,-83.22163069
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Eyman,9,0,33.033767,-111.335616
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Tucson,66,0,32.066723,-110.859173
+7/9/2020,State Prisons,Arizona,Arizona State Prison Phoenix – West,1,0,33.432798,-112.133221
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Lewis,87,0,33.201303,-112.6448
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Phoenix,134,0,33.452563,-112.026114
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Florence,85,0,33.030335,-111.371148
+7/9/2020,State Prisons,South Carolina,Lieber Correctional Institution,7,0,33.08550765,-80.29023667
+7/9/2020,State Prisons,Georgia,Georgia Diagnostic and Classification State Prison,72,4,33.22105425,-84.06086168
+7/9/2020,State Prisons,Georgia,Georgia State Prison,1,0,33.221282,-84.060182
+7/9/2020,State Prisons,Georgia,Mitchell County CI,3,0,33.531768,-82.264059
+7/9/2020,State Prisons,California,Ironwood State Prison (ISP),37,0,33.5614912,-114.9267021
+7/9/2020,State Prisons,California,Chuckawalla Valley State Prison (CVSP),1032,2,33.56196045,-114.9094928
+7/9/2020,State Prisons,California,Wasco State Prison - Reception Center (WSP),37,0,33.755479,-116.361738
+7/9/2020,State Prisons,Georgia,Atlanta Transitional Center,1,0,33.7726795,-84.3761306
+7/9/2020,State Prisons,South Carolina,Turbeville Correctional Institution,14,0,33.8863,-80.0819
+7/9/2020,State Prisons,California,California Rehabilitation Center (CRC),220,0,33.929087,-117.571427
+7/9/2020,State Prisons,Mississippi,Tallahatchie County Correctional Facility,2,0,33.941095,-90.194551
+7/9/2020,State Prisons,California,California Institution for Women (CIW),167,1,33.9493537,-117.6366556
+7/9/2020,State Prisons,California,California Institution for Men (CIM),941,17,33.984842,-117.675159
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Perryville,19,0,33.470921,-112.4425
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Safford,4,0,32.830763,-109.565671
+7/9/2020,State Prisons,Arizona,Arizona State Prison Complex – Yuma,101,0,32.493986,-114.643125
+7/9/2020,State Prisons,Arizona,Marana Community Correctional Treatment Facility,9,0,32.417685,-111.242415
+7/9/2020,State Prisons,Arizona,Arizona State Prison – Kingman,5,0,35.029369,-114.180153
+7/9/2020,State Prisons,Arizona,Central Arizona Correctional Facility,6,0,33.040533,-111.377432
+7/9/2020,State Prisons,South Carolina,Kirkland Correctional Institution,66,0,34.06930225,-81.09785306
+7/9/2020,State Prisons,South Carolina,Broad River Correctional Institution,2,0,34.0738092,-81.0979645
+7/9/2020,State Prisons,Georgia,Lee State Prison,22,2,34.450685,-83.595453
+7/9/2020,State Prisons,Georgia,Lee Arrendale State Prison,5,0,34.4509235,-83.59607708
+7/9/2020,State Prisons,Georgia,Whitworth Women's Facility,7,0,34.48399,-83.09487
+7/9/2020,State Prisons,Georgia,Phillips State Prison,17,0,34.507205,-85.311447
+7/9/2020,State Prisons,South Carolina,Evans Correctional Institution,43,0,34.65192495,-79.71610763
+7/9/2020,State Prisons,South Carolina,Perry Correctional Institution,3,0,34.66027565,-82.33312034
+7/9/2020,State Prisons,California,"California State Prison, Los Angeles County (LAC)",128,0,34.69334635,-118.2287799
+7/9/2020,State Prisons,South Carolina,Tyger River Correctional Institution,135,0,34.71107855,-81.82757078
+7/9/2020,State Prisons,Oklahoma,Oklahoma State Reformatory,1,0,34.9778347,-99.3936964
+7/9/2020,State Prisons,Oklahoma,Davis Correctional Facility (Private Prison),1,0,35.08999405,-96.4439112
+7/9/2020,State Prisons,California,California Correctional Institution (CCI),145,0,35.1084168,-118.5720369
+7/9/2020,State Prisons,California,California City Correctional Facility (CAC),1,0,35.134635,-117.980756
+7/9/2020,State Prisons,Tennessee,Mark H. Luttrell Correctional Center - Memphis,54,0,35.15595345,-89.86202206
+7/9/2020,State Prisons,Maryland,North Branch Correctional Institution - Cumberland,11,0,35.229077,-78.836581
+7/9/2020,State Prisons,Tennessee,Whiteville Correctional Facility,43,0,35.28743315,-89.16041088
+7/9/2020,State Prisons,Tennessee,Hardeman County Correctional Center,153,0,35.29929545,-89.15402189
+7/9/2020,State Prisons,California,California Men's Colony (CMC),11,0,35.323867,-120.693999
+7/9/2020,State Prisons,Tennessee,South Central Correctional Facility,58,0,35.3658841,-87.99693378
+7/9/2020,State Prisons,North Carolina,Foothills Correctional Institution,10,0,35.67971405,-81.69185017
+7/9/2020,State Prisons,Tennessee,Bledsoe County Correctional Complex,587,1,35.7425342,-85.2577994
+7/9/2020,State Prisons,North Carolina,North Carolina Correctional Institution for Women,147,0,35.7646989,-78.62114766
+7/9/2020,State Prisons,North Carolina,Central Prison,11,0,35.77763365,-78.65488967
+7/9/2020,State Prisons,California,North Kern State Prison (NKSP),8,0,35.781398,-119.311293
+7/9/2020,State Prisons,Tennessee,Turney Center Annex,2,0,35.82872635,-87.68931175
+7/9/2020,State Prisons,Oklahoma,Cimarron Correctional Facility (Private Prison),2,0,35.94360015,-96.7803887
+7/9/2020,State Prisons,California,Avenal State Prison (ASP),945,3,35.973787,-120.123322
+7/9/2020,State Prisons,California,"California Substance Abuse Treatment Facility and State Prison, Corcoran (SATF)",1,0,36.053851,-119.548311
+7/9/2020,State Prisons,California,"California State Prison, Corcoran (COR)",158,1,36.060576,-119.548768
+7/9/2020,State Prisons,North Carolina,Bertie Correctional Institution,10,0,36.070105,-76.930615
+7/9/2020,State Prisons,Tennessee,Morgan County Correctional Complex - Wartburg,12,0,36.114394,-84.539791
+7/9/2020,State Prisons,North Carolina,Pender Correctional Center,17,0,34.554323,-77.939036
+7/9/2020,State Prisons,North Carolina,Sanford Correctional Center,1,0,35.47288,-79.1586
+7/9/2020,State Prisons,North Carolina,Wilkes Correctional Center,17,0,36.140813,-81.148982
+7/9/2020,State Prisons,North Carolina,Polk Correctional Institution,1,0,36.13569865,-78.78556667
+7/9/2020,State Prisons,Tennessee,Riverbend Maximum Security Institution - Nashville,3,0,36.18536465,-86.90176701
+7/9/2020,State Prisons,Tennessee,Tennessee Prison for Women - Nashville,8,0,36.19368305,-86.85955131
+7/9/2020,State Prisons,North Carolina,Pasquotank Correctional Institution,19,0,36.3615107,-76.3108391
+7/9/2020,State Prisons,Tennessee,Northwest Correctional Complex - Tiptonville,805,0,36.42109955,-89.45467178
+7/9/2020,State Prisons,Tennessee,Northeast Correctional Complex,10,0,36.4478714,-81.88516821
+7/9/2020,State Prisons,Oklahoma,Dick Conner Correctional Center,1,0,36.469511,-96.408631
+7/9/2020,State Prisons,California,Salinas Valley State Prison (SVSP),3,0,36.47866845,-121.3743024
+7/9/2020,State Prisons,Nevada,High Desert State Prison,11,0,36.51883885,-115.5852052
+7/9/2020,State Prisons,Oklahoma,William S. Key Correctional Center,2,0,36.571984,-99.557236
+7/9/2020,State Prisons,Virginia,Deerfield Correctional Center,78,1,36.7295222,-77.2457629
+7/9/2020,State Prisons,Virginia,Sussex II State Prison,73,1,37.05219935,-77.20554905
+7/9/2020,State Prisons,Texas,Wayne Scott Unit,104,0,37.085265,-91.675021
+7/9/2020,State Prisons,Texas,French M. Robertson Unit,199,0,37.199292,-91.923053
+7/9/2020,State Prisons,Texas,Barry Telford Unit,186,0,37.326872,-91.90181
+7/9/2020,State Prisons,Virginia,Marion Treatment Center,1,0,37.370036,-79.180608
+7/9/2020,State Prisons,Virginia,Central Virginia Correctional Unit #13,57,0,37.4032651,-77.56348128
+7/9/2020,State Prisons,Virginia,Dillwyn Correctional Center,347,2,37.57445365,-78.47062103
+7/9/2020,State Prisons,California,Sierra Conservation Center (SCC),1,0,37.894389,-120.53892
+7/9/2020,State Prisons,California,California Health Care Facility (CHCF),1,0,37.897222,-121.186619
+7/9/2020,State Prisons,California,San Quentin State Prison (SQ),1649,7,37.9398653,-122.4899525
+7/9/2020,State Prisons,Virginia,Haynesville Correctional Center,256,1,37.9574672,-76.67070579
+7/9/2020,State Prisons,Virginia,Fluvanna Correctional Center for Women,8,0,37.98258125,-78.27017186
+7/9/2020,State Prisons,Indiana,Branchville Correctional Facility,15,0,38.151656,-86.59939198
+7/9/2020,State Prisons,Colorado,Crowley County Correctional Facility,63,0,38.15639975,-103.9572475
+7/9/2020,State Prisons,Maryland,Eastern Correctional Institution,5,0,38.1573191,-75.70437851
+7/9/2020,Youth Institution,Maryland,Youth Detention Center,2,0,38.254007,-85.763249
+7/9/2020,State Prisons,Colorado,Buena Vista Correctional Facility,1,0,38.284892,-104.628386
+7/9/2020,State Prisons,Virginia,Harrisonburg Men's CCAP,26,0,38.43773,-78.870289
+7/9/2020,State Prisons,Maryland,Maryland Correctional Training Center,15,0,38.557607,-77.015923
+7/9/2020,State Prisons,California,"California State Prison, Sacramento (SAC)",4,0,38.693379,-121.153056
+7/9/2020,State Prisons,California,"California State Prison, Centinela (CEN)",23,0,32.821225,-115.789166
+7/9/2020,State Prisons,California,"California State Prison, Solano (SOL)",1,0,38.320786,-121.975147
+7/9/2020,State Prisons,California,Folsom State Prison (FSP),1,0,38.695809,-121.163587
+7/9/2020,State Prisons,Indiana,Wabash Valley Correctional Facility,4,0,38.97784365,-87.40027197
+7/9/2020,State Prisons,Kansas,Topeka Correctional Facility,2,0,39.03958585,-95.62462039
+7/9/2020,State Prisons,Maryland,Maryland Correctional Institution - Hagerstown,6,0,39.131639,-76.776093
+7/9/2020,State Prisons,Maryland,Jessup Correctional Institution,94,2,39.149349,-76.771126
+7/9/2020,State Prisons,Kansas,Lansing Correctional Facility,850,4,39.25193025,-94.89242484
+7/9/2020,State Prisons,Maryland,"Maryland Reception, Diagnostics and Classification Center",14,0,39.299403,-76.607146
+7/9/2020,State Prisons,Florida,"Central Florida Reception Center (CFRC, combined)",1,0,39.310253,-91.49001
+7/9/2020,State Prisons,Indiana,Edinburgh Correctional Facility,8,0,39.3531269,-86.04014799
+7/9/2020,State Prisons,Ohio,Chillicothe Correctional Institution,31,1,39.36851975,-83.00144201
+7/9/2020,State Prisons,Maryland,Central Maryland Correctional Facility - Sykesville,60,2,39.37259755,-76.95568484
+7/9/2020,State Prisons,New Jersey,South Woods State Prison,658,5,39.4125275,-75.20761756
+7/9/2020,State Prisons,Ohio,Lebanon Correctional Institution,30,4,39.43232455,-84.29970403
+7/9/2020,State Prisons,Maryland,Roxbury Correctional Institution,18,1,39.55454,-77.7036
+7/9/2020,State Prisons,Ohio,Franklin Medical Center,202,7,39.5589474,-84.3041074
+7/9/2020,State Prisons,Indiana,Putnamville Correctional Facility,35,0,39.5650932,-86.88694956
+7/9/2020,State Prisons,Maryland,Western Correctional Institution - Cumberland,1,0,39.605698,-78.816631
+7/9/2020,State Prisons,Indiana,Heritage Trail Correctional Facility,49,0,39.690333,-86.41330864
+7/9/2020,State Prisons,Indiana,Plainfield Correctional Facility,126,8,39.690597,-86.37166
+7/9/2020,State Prisons,Ohio,Southeastern Correctional Institution,2,0,39.743286,-81.551813
+7/9/2020,State Prisons,Colorado,Denver Reception & Diagnostic Center,2,0,39.76701575,-104.8612687
+7/9/2020,State Prisons,Ohio,Correctional Reception Center,117,1,39.8004568,-83.14906562
+7/9/2020,State Prisons,Indiana,Indiana Women's Prison,25,0,39.8011551,-86.29184784
+7/9/2020,State Prisons,Pennsylvania,SCI - Chester,5,0,39.8512161,-75.35152696
+7/9/2020,State Prisons,Ohio,London Correctional Institution,55,2,39.9014958,-83.48484438
+7/9/2020,State Prisons,Pennsylvania,SCI - Retreat,13,0,39.9165,-74.71266
+7/9/2020,State Prisons,Indiana,New Castle Correctional Facility,39,1,39.9627874,-85.3718157
+7/9/2020,State Prisons,New York,Mid-State Correctional Facility,21,0,39.998334,-74.583555
+7/9/2020,State Prisons,New Jersey,Mid-State Correctional Facility,76,1,39.99833415,-74.58355139
+7/9/2020,State Prisons,New Jersey,Kintock Bridgeton 2,14,0,39.412648,-75.210693
+7/9/2020,Youth Institution,New Jersey,Garden State Youth Correctional Facility,386,0,40.15967,-74.676974
+7/9/2020,State Prisons,New Jersey,East Jersey State Prison,167,8,40.591002,-74.268135
+7/9/2020,State Prisons,New Jersey,Kintock Bridgeton 1,10,0,39.412648,-75.210693
+7/9/2020,State Prisons,New Jersey,Kintock Newark,10,0,39.412648,-75.210693
+7/9/2020,State Prisons,New Jersey,Edna Mahan Correctional Facility for Women,115,2,40.629415,-74.933674
+7/9/2020,State Prisons,New Jersey,Adult Diagnostic and Treatment Center,375,14,40.589844,-74.273949
+7/9/2020,State Prisons,New Jersey,Hope Hall,12,0,39.913797,-75.114432
+7/9/2020,State Prisons,New Jersey,Bayside State Prison,80,0,39.243532,-74.952349
+7/9/2020,State Prisons,New Jersey,Southern State Correctional Facility,154,0,39.237383,-74.957819
+7/9/2020,State Prisons,New Jersey,James A. Hemm House,1,0,40.726758,-74.183313
+7/9/2020,State Prisons,New Jersey,Fletcher House,1,0,39.947832,-75.119545
+7/9/2020,State Prisons,New Jersey,Northern State Prison,205,9,40.712492,-74.173808
+7/9/2020,State Prisons,New Jersey,Columbus House,6,0,40.0726112,-74.7207156
+7/9/2020,State Prisons,Ohio,Belmont Correctional Institution,125,9,40.08489615,-80.97638525
+7/9/2020,State Prisons,New Jersey,New Jersey State Prison,151,5,40.2072462,-74.75647231
+7/9/2020,State Prisons,Ohio,Ohio Reformatory for Women,1,0,40.2225553,-83.39360131
+7/9/2020,State Prisons,Nevada,Lovelock Correctional Center,1,0,40.22304775,-118.3887908
+7/9/2020,State Prisons,Pennsylvania,SCI - Phoenix,46,4,40.23051335,-75.41970736
+7/9/2020,State Prisons,New Jersey,Bo Robinson Assessment and Treatment,47,1,40.242359,-74.734958
+7/9/2020,State Prisons,New Jersey,Garrett House,3,0,40.375417,-74.685853
+7/9/2020,State Prisons,California,California Correctional Center (CCC),227,0,40.4009568,-120.5161569
+7/9/2020,State Prisons,California,High Desert State Prison (HDSP),4,0,40.4074613,-120.5134615
+7/9/2020,State Prisons,Indiana,Reception Diagnostic Center,130,0,40.457955,-85.493112
+7/9/2020,State Prisons,Pennsylvania,SCI - Huntingdon,183,5,40.502033,-78.012214
+7/9/2020,Youth Institution,New Jersey,Mountainview Youth Correctional Facility,196,0,40.58427,-74.499877
+7/9/2020,State Prisons,Colorado,Sterling Correctional Facility,564,3,40.6112199,-103.162109
+7/9/2020,State Prisons,Indiana,Miami Correctional Facility,1,1,40.64664015,-86.13482517
+7/9/2020,State Prisons,New York,Adirondack Correctional Facility,1,0,40.65264,-73.975856
+7/9/2020,State Prisons,Illinois,Fox Valley Adult Transition Center,4,0,41.787931,-88.320483
+7/9/2020,State Prisons,Illinois,Crossroads Adult Transition Center,3,0,41.868049,-87.697885
+7/9/2020,State Prisons,Illinois,North Lawndale Adult Transition Center,5,0,41.868049,-87.697885
+7/9/2020,State Prisons,New York,Marcy Correctional Facility,8,0,40.708406,-73.957914
+7/9/2020,State Prisons,Pennsylvania,SCI - Coal Township,1,0,40.8069481,-76.55162672
+7/9/2020,State Prisons,Pennsylvania,SCI - Benner Township,1,1,40.859712,-77.77788534
+7/9/2020,State Prisons,Illinois,Pontiac Correctional Center,6,0,40.86938935,-88.63581595
+7/9/2020,State Prisons,Illinois,Hill Correctional Center,17,0,40.93947015,-90.40674622
+7/9/2020,State Prisons,New York,Sing Sing Correctional Facility,43,4,41.1510142,-73.86744936
+7/9/2020,State Prisons,Pennsylvania,SCI - Muncy,1,0,41.2034418,-76.82454052
+7/9/2020,State Prisons,New York,Bedford Hills Correctional Facility,45,1,41.239228,-73.6896
+7/9/2020,State Prisons,New York,Taconic Correctional Facility,2,0,41.2451104,-73.67643355
+7/9/2020,State Prisons,Connecticut,New Haven Correctional Center,128,0,41.320467,-72.925661
+7/9/2020,State Prisons,Connecticut,Garner Correctional Institution,1,0,41.4002221,-73.27125103
+7/9/2020,State Prisons,Ohio,Lorain Correctional Institution,22,0,41.444665,-82.185383
+7/9/2020,State Prisons,Pennsylvania,SCI - Greene,1,0,41.480717,-79.097293
+7/9/2020,State Prisons,Ohio,Northeast Reintegration Center,9,0,41.4888609,-81.66764331
+7/9/2020,State Prisons,New York,Fishkill Correctional Facility,85,5,41.52044195,-73.95533171
+7/9/2020,State Prisons,Connecticut,Cheshire Correctional Institution,26,0,41.5215518,-72.8996243
+7/9/2020,State Prisons,New York,Downstate Correctional Facility,1,0,41.5330688,-73.94507565
+7/9/2020,State Prisons,Illinois,East Moline Correctional Center,71,0,41.5344063,-90.41855365
+7/9/2020,State Prisons,New York,Green Haven Correctional Facility,56,2,41.5780202,-73.71791532
+7/9/2020,State Prisons,Illinois,Stateville NRC,1,0,41.57862,-88.094282
+7/9/2020,State Prisons,Illinois,Stateville Correctional Center,203,0,41.5787173,-88.09455476
+7/9/2020,State Prisons,New York,Wallkill Correctional Facility,34,0,41.6329393,-74.16342204
+7/9/2020,State Prisons,New York,Shawangunk Correctional Facility,41,1,41.63398,-74.25904
+7/9/2020,State Prisons,Ohio,Toledo Correctional Institution,14,0,41.68099225,-83.51154631
+7/9/2020,State Prisons,Indiana,Indiana State Prison,7,0,41.70341595,-86.91733932
+7/9/2020,State Prisons,New York,Eastern Correctional Facility,21,1,41.73912165,-74.35886793
+7/9/2020,State Prisons,Connecticut,Hartford Correctional Center,95,0,41.7937105,-72.6612032
+7/9/2020,State Prisons,Connecticut,Bridgeport Correctional Center,117,0,41.793711,-72.661203
+7/9/2020,State Prisons,Pennsylvania,SCI - Cambridge Springs,1,0,41.7964932,-80.05369879
+7/9/2020,State Prisons,Pennsylvania,SCI - Albion,1,0,41.87942145,-80.36325839
+7/9/2020,State Prisons,Michigan,Gus Harrison Correctional Facility,730,4,41.8881217,-84.0063305
+7/9/2020,State Prisons,Massachusetts,Massachusetts Treatment Center,133,0,41.94585595,-70.95750275
+7/9/2020,State Prisons,Ohio,Lake Erie Correctional Institution,45,0,41.9460435,-80.53812569
+7/9/2020,State Prisons,Connecticut,MacDougall-Walker Correctional Institution,6,0,41.950011,-72.636903
+7/9/2020,State Prisons,Connecticut,Osborn Correctional Institution,262,0,42.0166252,-72.49705277
+7/9/2020,State Prisons,Connecticut,Robinson Correctional Institution,228,0,42.01787215,-72.51641101
+7/9/2020,State Prisons,New York,Southport Correctional Facility,11,0,42.0523444,-76.7944966
+7/9/2020,State Prisons,Michigan,Women's Huron Valley Correctional Facility,288,4,42.17498925,-83.69228487
+7/9/2020,State Prisons,Michigan,Lakeland Correctional Facility,793,23,42.230145,-84.293792
+7/9/2020,State Prisons,New York,Franklin Correctional Facility,1,0,42.2436832,-73.7941044
+7/9/2020,State Prisons,New York,Greene Correctional Facility,1,0,42.260867,-74.160907
+7/9/2020,State Prisons,Massachusetts,Massachusetts Correctional Institution - Norfolk,3,0,42.267318,-71.407529
+7/9/2020,State Prisons,Michigan,Parnall Correctional Facility,505,10,42.2879623,-84.38920894
+7/9/2020,State Prisons,Michigan,G. Robert Cotton Correctional Facility,738,4,42.2888008,-84.3887622
+7/9/2020,State Prisons,New York,Coxsackie Correctional Facility,1,0,42.3432658,-73.83321966
+7/9/2020,State Prisons,Michigan,Detroit Reentry Center,23,2,42.42361105,-83.05762378
+7/9/2020,State Prisons,Michigan,Woodland Center Correctional Facility,20,1,42.4389791,-83.77101365
+7/9/2020,State Prisons,Massachusetts,Massachusetts Correctional Institution - Concord,1,0,42.4715821,-71.3986582
+7/9/2020,State Prisons,New York,Collins Correctional Facility,1,0,42.49225125,-78.93529964
+7/9/2020,State Prisons,Massachusetts,Souza-Baranowski Correctional Center,2,0,42.5234434,-71.64836334
+7/9/2020,State Prisons,Wisconsin,Racine Correctional Institution,2,0,42.7090568,-87.90028864
+7/9/2020,State Prisons,Michigan,Macomb Correctional Facility,240,5,42.7235459,-82.76303197
+7/9/2020,State Prisons,New York,Mohawk Correctional Facility,1,0,42.752726,-73.76426
+7/9/2020,State Prisons,New York,Wende Correctional Facility,28,0,42.93128385,-78.55151728
+7/9/2020,State Prisons,Michigan,Michigan Reformatory,1,0,42.9760458,-85.0932205
+7/9/2020,State Prisons,Michigan,Bellamy Creek Correctional Facility,1,0,42.97757455,-85.10603718
+7/9/2020,State Prisons,Michigan,Ionia Correctional Facility,2,0,42.9837655,-85.10090048
+7/9/2020,State Prisons,Wisconsin,Milwaukee Secure Detention Facility,2,0,43.04369585,-87.92482175
+7/9/2020,State Prisons,Wisconsin,Marshall E. Sherrer Correctional Center,6,0,43.04758295,-87.92937014
+7/9/2020,State Prisons,Wisconsin,Felmers O. Chaney Correctional Center,18,0,43.07043995,-87.95190387
+7/9/2020,State Prisons,New Hampshire,New Hampshire State Prison for Men,1,0,43.2271464,-71.55838654
+7/9/2020,State Prisons,New Jersey,The Harbor House,5,0,43.255566,-77.603122
+7/9/2020,State Prisons,Michigan,Saginaw Correctional Facility,3,0,43.5074807,-84.1035782
+7/9/2020,State Prisons,Oregon,"Shutter Creek Correctional Institution, North Bend",25,0,43.536346,-124.148744
+7/9/2020,State Prisons,Wisconsin,Dodge Correctional Institution,5,0,43.62040725,-88.74253403
+7/9/2020,State Prisons,Wisconsin,Waupun Correctional Institution,228,0,43.63147675,-88.70958539
+7/9/2020,State Prisons,Minnesota,Faribault,206,2,43.6647961,-93.9510501
+7/9/2020,State Prisons,Wisconsin,Redgranite Correctional Institution,2,0,44.05557495,-89.10797973
+7/9/2020,State Prisons,Wisconsin,Oshkosh Correctional Institute,9,0,44.069854,-88.554124
+7/9/2020,State Prisons,Oregon,"Snake River Correctional Institution, Ontario",13,0,44.078032,-117.066458
+7/9/2020,State Prisons,Wisconsin,Drug Abuse Correctional Center,1,0,44.0787784,-88.51706341
+7/9/2020,State Prisons,Michigan,Oaks Correctional Facility,9,0,44.24633985,-86.27051864
+7/9/2020,State Prisons,Wisconsin,Jackson Correctional Institution,3,0,44.323019,-90.941513
+7/9/2020,State Prisons,Wisconsin,Black River Correctional Center,1,0,44.3562413,-90.65565893
+7/9/2020,State Prisons,South Dakota,Jamestown Annex,2,0,44.470716,-100.229958
+7/9/2020,Youth Institution,Minnesota,Red Wing (Juvenile),1,0,44.577368,-92.613678
+7/9/2020,State Prisons,New York,Clinton Correctional Facility,1,0,44.7241879,-73.71941074
+7/9/2020,State Prisons,Wisconsin,Chippewa Valley Correctional Treatment Facility,2,0,44.9280246,-91.35021779
+7/9/2020,State Prisons,Oregon,"Santiam Correctional Institution, Salem",9,0,45.086117,-123.385589
+7/9/2020,State Prisons,Minnesota,Lino Lakes,13,0,45.1602442,-93.0888324
+7/9/2020,State Prisons,Minnesota,St. Cloud,4,0,45.5616075,-94.1642004
+7/9/2020,State Prisons,Montana,Gallatin Reentry Program,2,0,45.85478,-111.119902
+7/9/2020,State Prisons,Oregon,"Two Rivers Correctional Institution, Umatilla",4,0,45.9269756,-119.2609986
+7/9/2020,State Prisons,Michigan,Kinross Correctional Facility,1,0,46.2626519,-84.469256
+7/9/2020,State Prisons,Michigan,Newberry Correctional Facility,1,0,46.33140095,-85.50779368
+7/9/2020,State Prisons,Minnesota,Moose Lake,74,0,46.4542937,-92.7619799
+7/9/2020,State Prisons,North Carolina,Caledonia Correctional Institution,49,0,47.45774,-96.889141
+7/9/2020,State Prisons,California,Calipatria State Prison (CAL),1,0,33.162652,-115.484696
+7/9/2020,State Prisons,Connecticut,Corrigan-Radgowski Correctional Center,246,0,41.453064,-72.111254
+7/9/2020,State Prisons,Connecticut,Brooklyn Correctional Institution,151,0,41.784156,-71.953946
+7/9/2020,State Prisons,Connecticut,Willard-Cybulski Correctional Institution,82,0,42.022935,-72.506524
+7/9/2020,State Prisons,Delaware,Morris Community Corrections Center,3,0,39.153216,-75.527477
+7/9/2020,State Prisons,Delaware,Sussex Correctional Institution,119,0,38.659721,-75.370129
+7/9/2020,State Prisons,Florida,Avon Park Correctional Institution,145,0,27.661318,-81.36069
+7/9/2020,State Prisons,Florida,Okaloosa Correctional Institution,7,0,30.697064,-86.525708
+7/9/2020,State Prisons,Florida,Bay Correctional Facility,7,0,26.6577,-80.7188
+7/9/2020,State Prisons,Florida,Moore Haven Correctional Facility,4,0,26.838,-81.1205
+7/9/2020,State Prisons,Georgia,Bacon Probation Detention Center,3,0,31.532918,-82.449002
+7/9/2020,State Prisons,Georgia,Ware State Prison,6,0,31.258432,-82.395368
+7/9/2020,State Prisons,Georgia,McEver Probation Detention Center,1,0,32.464757,-83.694771
+7/9/2020,State Prisons,Georgia,Columbus Transitional Center,3,0,32.494027,-84.869026
+7/9/2020,State Prisons,Georgia,Burruss Correctional Training Center,1,0,33.058974,-83.963317
+7/9/2020,State Prisons,Georgia,Treutlen Probation Detention Center,1,0,32.362099,-82.601743
+7/9/2020,State Prisons,Georgia,Dooly State Prison,18,1,32.281141,-83.716268
+7/9/2020,State Prisons,Georgia,Bainbridge Probation Substance Abuse Treatment Center,31,0,30.981878,-84.635179
+7/9/2020,State Prisons,Georgia,Coastal State Prison,41,5,32.137879,-81.187355
+7/9/2020,State Prisons,Georgia,Metro Reentry Facility,2,0,33.686763,-84.335482
+7/9/2020,State Prisons,Georgia,Calhoun State Prison,55,1,31.539564,-84.616674
+7/9/2020,State Prisons,Georgia,Riverbend Correctional Facility,18,1,33.027892,-83.219055
+7/9/2020,State Prisons,Georgia,Augusta State Medical Prison,1,0,33.433661,-82.189091
+7/9/2020,State Prisons,Georgia,Metro Transitional Center,6,0,33.688498,-84.33659
+7/9/2020,State Prisons,Georgia,Johnson State Prison,47,1,32.743441,-82.702458
+7/9/2020,State Prisons,Georgia,Smith State Prison,1,0,31.9731,-81.9158
+7/9/2020,State Prisons,Illinois,Sheridan Correctional Center,18,0,41.517809,-88.686463
+7/9/2020,State Prisons,Illinois,Logan Correctional Center,1,0,40.113705,-89.388579
+7/9/2020,Youth Institution,Indiana,Pendleton Juvenile Correctional Facility,26,0,39.968976,-85.77471
+7/9/2020,State Prisons,Indiana,Pendleton Correctional Facility,62,4,39.982513,-85.759798
+7/9/2020,State Prisons,Indiana,Westville Correctional Facility,201,6,41.527186,-86.909648
+7/9/2020,State Prisons,Iowa,Fort Dodge Correctional Facility,62,0,42.484648,-94.195234
+7/9/2020,State Prisons,Iowa,Iowa Medical and Classification Center,1,0,41.713683,-91.611593
+7/9/2020,State Prisons,Kansas,Wichita Work Release Facility,58,0,37.682026,-97.333404
+7/9/2020,State Prisons,Maryland,Maryland Correctional Institution - Jessup,147,0,39.131782,-76.776146
+7/9/2020,State Prisons,Maryland,Chesapeake Detention Facility,5,0,39.298287,-76.609374
+7/9/2020,State Prisons,Maryland,Metropolitan Transition Center - Baltimore,30,0,39.299897,-76.609404
+7/9/2020,State Prisons,Maryland,Dorsey Run Correctional Facility,58,1,39.138703,-76.776185
+7/9/2020,State Prisons,Maryland,Patuxent Institution,39,1,39.164553,-76.778782
+7/9/2020,State Prisons,Maryland,Baltimore Central Booking and Intake Center,87,0,39.298961,-76.610346
+7/9/2020,State Prisons,Maryland,Maryland Correctional Institution for Women - Jessup,26,0,39.131782,-76.776146
+7/9/2020,State Prisons,Massachusetts,Massachusetts Correctional Institution - Shirley,169,0,42.5433,-71.657
+7/9/2020,State Prisons,Massachusetts,Massachusetts Alcohol and Substance Abuse Center at Plymouth,3,0,41.952217,-70.955134
+7/9/2020,State Prisons,Massachusetts,Massachusetts Correctional Institution - Framingham,86,0,42.267318,-71.407529
+7/9/2020,State Prisons,Michigan,Charles Egeler Reception and Guidance Center,84,6,42.236525,-83.171073
+7/9/2020,State Prisons,Michigan,Duane Waters Health Center,48,2,42.297961,-84.387617
+7/9/2020,State Prisons,Michigan,Thumb Correctional Facility,307,7,43.034874,-83.349973
+7/9/2020,State Prisons,Michigan,Central Michigan Correctional Facility,6,0,43.412085,-84.594675
+7/9/2020,State Prisons,Minnesota,Willow River (CIP),82,0,46.352338,-92.82926
+7/9/2020,State Prisons,Mississippi,East Mississippi Correctional Facility,9,0,32.338599,-88.79908
+7/9/2020,State Prisons,Mississippi,Mississippi State Penitentiary,2,0,33.926904,-90.544898
+7/9/2020,State Prisons,Montana,Women's Prison,1,0,45.774893,-108.495718
+7/9/2020,State Prisons,Nevada,Northern Nevada Correctional Center and Stewart Conservation Camp,1,0,39.107995,-119.745145
+7/9/2020,State Prisons,Nevada,Ely State Prison,1,0,39.3851,-114.93811
+7/9/2020,State Prisons,New York,Otisville Correctional Facility,48,1,41.612503,-74.605614
+7/9/2020,State Prisons,New York,Sullivan Correctional Facility,23,0,41.720648,-74.580993
+7/9/2020,State Prisons,New York,Gowanda Correctional Facility,1,0,42.486573,-78.935929
+7/9/2020,State Prisons,New York,Great Meadow Correctional Facility,44,0,43.45757,-73.433723
+7/9/2020,State Prisons,New York,Ulster Correctional Facility,15,0,41.743429,-74.356386
+7/9/2020,State Prisons,New York,Queensboro Correctional Facility,7,1,40.742543,-73.934225
+7/9/2020,State Prisons,New York,Attica Correctional Facility,2,0,42.849531,-78.275388
+7/9/2020,State Prisons,North Carolina,Piedmont Correctional Institution,5,0,35.62174,-80.545903
+7/9/2020,State Prisons,North Carolina,Tabor Correctional Institution,2,0,34.186964,-78.911253
+7/9/2020,State Prisons,North Carolina,Scotland Correctional Institution,7,0,34.811861,-79.364672
+7/9/2020,State Prisons,North Dakota,Dakota Women's Correctional and Rehabilitation Center,1,0,46.535124,-102.867404
+7/9/2020,State Prisons,Ohio,Mansfield Correctional Institution,37,0,40.79129,-82.508693
+7/9/2020,State Prisons,Ohio,Trumbull Correctional Institution,63,0,41.231106,-80.886371
+7/9/2020,State Prisons,Ohio,Ohio State Penitentiary,1,0,41.109233,-80.576478
+7/9/2020,State Prisons,Ohio,Richland Correctional Institution,1,0,40.785437,-82.501242
+7/9/2020,State Prisons,Ohio,Northeast Ohio Correctional Center,6,0,41.130863,-80.631876
+7/9/2020,State Prisons,Ohio,North Central Correctional Complex,85,4,40.616343,-83.115003
+7/9/2020,State Prisons,Ohio,Dayton Correctional Institution,1,0,39.729637,-84.260489
+7/9/2020,State Prisons,Ohio,Pickaway Correctional Institution,1478,35,39.79651,-83.156139
+7/9/2020,State Prisons,Ohio,Marion Correctional Institution,2041,13,40.619094,-83.106563
+7/9/2020,State Prisons,Oklahoma,Jackie Brannon Correctional Center,1,0,34.94324,-95.782697
+7/9/2020,State Prisons,Oregon,Oregon State Penitentiary,141,0,44.932413,-123.003793
+7/9/2020,State Prisons,Pennsylvania,SCI - Camp Hill,1,0,40.215591,-76.926453
+7/9/2020,State Prisons,Pennsylvania,SCI - Fayette,1,0,40.000095,-79.988086
+7/9/2020,State Prisons,South Carolina,MacDougall Correctional Institution,71,0,33.168209,-80.29536
+7/9/2020,State Prisons,South Dakota,South Dakota Women's Prison,1,0,44.3575,-100.308374
+7/9/2020,State Prisons,South Dakota,South Dakota State Penitentiary,1,0,43.566579,-96.725081
+7/9/2020,State Prisons,Tennessee,West Tennessee State Penitentiary - Henning,6,0,35.670896,-89.746781
+7/9/2020,State Prisons,Tennessee,Lois M. DeBerry Special Needs Facility - Nashville,13,0,36.190618,-86.900036
+7/9/2020,State Prisons,Tennessee,Trousdale Turner Correctional Center,1378,3,36.352942,-86.091492
+7/9/2020,State Prisons,Tennessee,Turney Center Industrial Complex - Only,42,0,35.831453,-87.687861
+7/9/2020,State Prisons,Texas,Marshall Formby State Jail,88,0,34.177652,-101.645277
+7/9/2020,State Prisons,Texas,Linda Woodman State Jail,57,0,31.461062,-97.729484
+7/9/2020,State Prisons,Texas,Thomas Havins Unit,11,0,31.656706,-98.974113
+7/9/2020,State Prisons,Texas,Price Daniel Unit,227,0,32.722246,-100.81856
+7/9/2020,State Prisons,Texas,Byrd Unit,59,0,30.737192,-95.555305
+7/9/2020,State Prisons,Texas,Joe F. Gurney Unit,144,0,31.758858,-95.822731
+7/9/2020,State Prisons,Texas,Stringfellow Unit,68,0,29.285922,-95.546841
+7/9/2020,State Prisons,Texas,Skyview Unit,9,0,31.807763,-95.162703
+7/9/2020,State Prisons,Texas,Eastham Unit,102,0,30.978153,-95.632202
+7/9/2020,State Prisons,Texas,Billy Moore Unit,12,0,32.316642,-94.966278
+7/9/2020,State Prisons,Texas,Rogelio Sanchez State Jail,252,0,31.813388,-106.251631
+7/9/2020,State Prisons,Texas,Joe Ney State Jail,172,0,29.351712,-99.196147
+7/9/2020,State Prisons,Texas,Manuel A. Segovia Unit,4,0,26.422181,-98.119373
+7/9/2020,State Prisons,Texas,Wynne Unit,322,0,30.741266,-95.57609
+7/9/2020,State Prisons,Texas,Louie C. Powledge Unit,3,0,31.734181,-95.802884
+7/9/2020,State Prisons,Texas,William G. McConnell Unit,10,0,28.372893,-97.71942
+7/9/2020,State Prisons,Texas,Garza West Unit,11,0,28.379267,-97.66729
+7/9/2020,State Prisons,Texas,John R. Lindsey Unit,10,0,33.24733,-98.154592
+7/9/2020,State Prisons,Texas,Jerry H. Hodge Unit,5,0,31.810381,-95.162388
+7/9/2020,State Prisons,Texas,Ellis Unit,324,0,30.875737,-95.460811
+7/9/2020,State Prisons,Texas,Clyde M. Johnston Unit,2,0,32.938184,-95.282848
+7/9/2020,State Prisons,Texas,Ramsey Unit,79,0,29.310149,-95.538075
+7/9/2020,State Prisons,Texas,Renaldo V. Lopez State Jail,7,0,26.417606,-98.117703
+7/9/2020,State Prisons,Texas,Carole S. Young Medical Facility Complex,7,0,29.427731,-94.981582
+7/9/2020,State Prisons,Texas,Jester III Unit,426,0,29.622619,-95.703502
+7/9/2020,State Prisons,Texas,Garza East Unit,2,0,28.378177,-97.659393
+7/9/2020,State Prisons,Texas,Mark W. Michael Unit,429,0,31.794457,-95.903491
+7/9/2020,State Prisons,Texas,Glen Ray Goodman Unit,216,0,30.914556,-93.945738
+7/9/2020,State Prisons,Texas,Larry Gist State Jail,239,0,29.995301,-94.049073
+7/9/2020,State Prisons,Texas,Coffield Unit,650,0,31.789047,-95.894269
+7/9/2020,State Prisons,Texas,J.B. Wheeler State Jail,79,0,34.177054,-101.645609
+7/9/2020,State Prisons,Texas,Baten Unit,1,0,35.564934,-100.891923
+7/9/2020,State Prisons,Texas,Mark W. Stiles Unit,720,0,29.988201,-94.05246
+7/9/2020,State Prisons,Texas,Reverend C.A. Holliday Unit,250,0,30.703083,-95.559862
+7/9/2020,State Prisons,Texas,Dempsie Henley State Jail,13,0,30.105122,-94.929605
+7/9/2020,Halfway Home,Utah,Bonneville Correctional Center,11,0,40.744776,-111.9544
+7/9/2020,State Prisons,Utah,Utah State Prison,3,0,40.489786,-111.90438
+7/9/2020,State Prisons,Virginia,Buckingham Correctional Center,165,4,37.566691,-78.474473
+7/9/2020,State Prisons,Virginia,State Farm Correctional Complex,159,1,37.168454,-80.888689
+7/9/2020,State Prisons,Virginia,Greensville Correctional Center,251,0,36.798633,-77.485604
+7/9/2020,State Prisons,Virginia,Lawrenceville Correctional Center,47,0,36.78209,-77.815607
+7/9/2020,State Prisons,Virginia,Indian Creek Correctional Center,1,0,36.613996,-76.177938
+7/9/2020,State Prisons,Virginia,Sussex I State Prison,2,0,37.046108,-77.199574
+7/9/2020,State Prisons,Virginia,Virginia Correctional Center for Women,46,1,37.674305,-77.889341
+7/9/2020,State Prisons,Virginia,Nottoway Correctional Center,1,0,37.183188,-78.174833
+7/9/2020,State Prisons,Wisconsin,Kettle Moraine Correctional Institution,1,0,43.723348,-88.149046
+7/9/2020,State Prisons,Wisconsin,Columbia Correctional Institution,3,0,43.565275,-89.491905
