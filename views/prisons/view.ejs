@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" 
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" 
+    crossorigin="anonymous">
+
+    
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+
+
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+
+
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+
+
+    
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Document</title>
+</head>
+
+
+    
+
+
+
+<body style = "background: #EEEEEE;">
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Covid Prison Website Prototype</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+
+            
+           
+           
+            
+          </ul>
+         
+        </div>
+      </nav>
+
+
+
+    <div class="container-fluid ">
+        <div class="row">
+
+        </div>
+      
+
+    </div>
+
+
+    <div class="container-fluid ">
+        <div class="row">
+
+
+
+
+          <div class="col-lg-3">
+
+
+            <br>
+            
+
+
+            
+
+
+
+            <div class="card" style="width: 18rem;">
+                <div class="card-body" style ="background: #FCFCFC; border-radius: 75%;">
+
+
+
+
+                    <form action="/prisons/yoPost" method ="POST">
+                        <div class="form-group">
+                            <label for="name">Search By Prison Name</label>
+                            <input required 
+                          type = "text"  class="form-control" name = "name" id = "name">
+                        </div>
+                      
+                        <button type="submit" class="btn btn-primary">Search</button>
+                    </form>
+
+
+
+
+
+
+                    
+
+
+                   
+
+
+
+                </div>
+
+
+          
+             
+              </div>
+
+
+           
+
+           
+
+              
+
+
+
+
+          
+    
+      
+          </div>
+
+
+          <div class="col-lg-6">
+
+
+             
+
+               
+
+
+            <br>
+
+           
+
+
+
+
+            <div id="second" style ="height: 600px; width: 100%; padding-top: 25px; border-radius: 5%;">
+
+
+    
+            </div>
+
+            
+                
+            
+                <input hidden type="text" id ="fname" value = <%= prisons.latitude %>><br>
+                <input hidden type="text" id="lname" name="lname" value = <%= prisons.longitude %>>
+             
+
+
+
+     
+         
+        
+        
+            <script> 
+
+
+              
+
+                element = document.getElementById("fname");
+
+                elementDos = document.getElementById("lname");
+
+               // alert('lat:'+ element.value +'long:'+ elementDos.value);
+
+
+                lat = element.value;
+
+                long = elementDos.value;
+
+               
+               
+                
+                var lol = L.map('second').setView([lat, long], 6);
+
+                var marker = L.marker([lat, long]).addTo(lol);
+                marker.bindPopup(" <b> <%= prisons.name %> </b>" + "<br>" + "Prison State:" + "<%= prisons.state %>" +  "<br>" + "Population Tested Positive:" + "<%= prisons.popTested %>" + "<br>" + "Prison Death's:" +"<%= prisons.deaths %>" );
+
+
+              
+              L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+                  maxZoom: 18,
+                  attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+                      '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+                      'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                  id: 'mapbox/streets-v11',
+                  tileSize: 512,
+                  zoomOffset: -1
+              }).addTo(lol);
+                
+            
+                
+            
+ 
+            </script>
+        
+        
+      
+        
+          </div>
+
+
+
+          
+
+
+
+          <div class="col-lg-3"  >
+
+            <br>
+
+            
+           
+            
+           
+
+            <h2> <%= prisons.name %></h2>
+            <h6>Prison State: <%= prisons.state %></h6>
+            <h6>Population Tested Positive: <%= prisons.popTested %></h6>
+            <h6>Prison Death's: <%= prisons.deaths %> </h6> 
+
+            
+
+            <form action="/prisons/his" method ="POST" >
+              <div class="form-group">
+                  <label for="name"></label>
+
+                  <input hidden type="text" name = "name" id = "name" value = '<%= prisons.name %>'><br>
+
+                
+              </div>
+            
+              <button type="submit" class="btn btn-primary">View Historical Data</button>
+          </form>
+
+            
+
+      
+
+
+ 
+
+            
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
