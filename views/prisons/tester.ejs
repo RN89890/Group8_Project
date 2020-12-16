@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" 
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" 
+    crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style = "background: #EEEEEE;">
+
+
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Covid Prison Website Prototype</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+
+            
+           
+           
+            
+          </ul>
+         
+        </div>
+      </nav>
+    
+
+    <div class="container-fluid ">
+        <div class="row">
+
+        </div>
+      
+
+    </div>
+
+
+    <div class="container-fluid ">
+        <div class="row">
+
+
+
+
+          <div class="col-lg-3">
+
+
+            <br>
+            
+
+      
+          </div>
+
+
+            <div class="col-lg-6">
+
+
+                <br>
+
+
+                <h1><u> <%= prisons[2].name %> </u></h1>
+
+                <br>
+    
+                <% prisons.forEach(prison => { %>
+        
+        
+
+        
+                 <h2> Date Recorded: <%= prison.date %></h2>
+                 <h3> Population Tested: <%= prison.popTested %></h3>
+                 <h3> Prison Death's: <%= prison.deaths %></h3>
+        
+                 <hr>
+        
+        
+            
+              
+              <% }) %>
+        
+
+
+            
+    
+            </div>
+
+
+
+
+
+            <div class="col-lg-3"  >
+
+                <br>
+
+                <h1>Covid-19 Prison Database</h1>
+                <p>Search for different prison's covid information using the search bar. </p>
+
+            
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+
+
+   
+
+
+
+
+
+    
+</body>
+</html>

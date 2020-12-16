@@ -5,7 +5,7 @@ const Prison = require('./models/prison')
 const prisonRouter = require('./routes/prisons')
 const app = express()
 
-mongoose.connect('mongodb://localhost/prisondb', { 
+mongoose.connect('mongodb://localhost/prisonnext', { 
 useNewUrlParser: true,  useUnifiedTopology: true
 })
 
@@ -16,7 +16,7 @@ app.use(express.urlencoded({extended: false}))
 app.get('/', async (req, res) => {
 
 
-    const prisons = await Prison.find()
+    const prisons = await Prison.find({date:'master'})
 
     res.render('prisons/index', {prisons: prisons})
 

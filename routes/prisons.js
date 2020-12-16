@@ -5,7 +5,9 @@ const mongoose = require('mongoose')
 
 
 
-
+router.get('/heat',  (req, res) =>{
+    res.render('prisons/heat')
+})
 
 
 router.get('/yo', (req, res) =>{
@@ -25,10 +27,18 @@ router.get('/:id', async (req, res) =>{
 
 
 
+
+
+
+
+
+
+
+
 router.post('/yoPost', async (req, res) => {
 
     x = req.body.name
-    let prisons = await Prison.findOne({ name: x }).exec()
+    let prisons = await Prison.findOne({ name: x, date:'master'  }).exec()
     if(prisons == null){
         res.redirect("/")
 
@@ -36,6 +46,22 @@ router.post('/yoPost', async (req, res) => {
     //res.redirect(`/prisons/${prison.id}`)
 
     res.render('prisons/view', { prisons: prisons})
+  
+})
+
+
+
+router.post('/his', async (req, res) => {
+
+    x = req.body.name
+    let prisons = await Prison.find({ name: x }).exec()
+    if(prisons == null){
+        res.redirect("/")
+
+    }
+    //res.redirect(`/prisons/${prison.id}`)
+
+    res.render('prisons/tester', { prisons: prisons})
   
 })
 

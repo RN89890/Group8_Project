@@ -40,6 +40,11 @@ const prisonSchema = new mongoose.Schema({
         
     },
 
+    date:{
+        type: String,
+        
+    },
+
 
     
 

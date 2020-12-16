@@ -97,7 +97,7 @@
 
 
             <div class="card" style="width: 18rem;">
-                <div class="card-body" style ="background: #FCFCFC;">
+                <div class="card-body" style ="background: #FCFCFC; border-radius: 75%;">
 
 
 
@@ -162,7 +162,7 @@
 
 
 
-            <div id="second" style ="height: 600px; width: 100%; padding-top: 25px;">
+            <div id="second" style ="height: 600px; width: 100%; padding-top: 25px; border-radius: 5%;">
 
 
     
@@ -203,6 +203,8 @@
                 var lol = L.map('second').setView([lat, long], 6);
 
                 var marker = L.marker([lat, long]).addTo(lol);
+                marker.bindPopup(" <b> <%= prisons.name %> </b>" + "<br>" + "Prison State:" + "<%= prisons.state %>" +  "<br>" + "Population Tested Positive:" + "<%= prisons.popTested %>" + "<br>" + "Prison Death's:" +"<%= prisons.deaths %>" );
+
 
               
               L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -238,15 +240,27 @@
 
             
            
-
+            
            
 
             <h2> <%= prisons.name %></h2>
             <h6>Prison State: <%= prisons.state %></h6>
-            <h6>Population Tested: <%= prisons.popTested %></h6>
-            <h6>Population Tested Positive: <%= prisons.popTestedPostitive %></h6>
-            <h6>Prison Latitude: <%= prisons.latitude %></h6>
-            <h6>Prison Longitude: <%= prisons.longitude %></h6>
+            <h6>Population Tested Positive: <%= prisons.popTested %></h6>
+            <h6>Prison Death's: <%= prisons.deaths %> </h6> 
+
+            
+
+            <form action="/prisons/his" method ="POST" >
+              <div class="form-group">
+                  <label for="name"></label>
+
+                  <input hidden type="text" name = "name" id = "name" value = '<%= prisons.name %>'><br>
+
+                
+              </div>
+            
+              <button type="submit" class="btn btn-primary">View Historical Data</button>
+          </form>
 
             
 
